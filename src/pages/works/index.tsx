@@ -15,7 +15,7 @@ const Works: NextPage = () => {
     <div className='max-w-xl mx-auto px-4 pt-5'>
       <Seo
         pageTitle='Works'
-        pageImg={'https://www.otacle.com/works'}
+        pageImg={'https://www.Irontiger.com/works'}
         pageImgWidth={1280}
         pageImgHeight={960}
         pagePath={'/works'}
