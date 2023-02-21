@@ -11,7 +11,7 @@ const Work: NextPage = () => {
     <div className='max-w-xl mx-auto px-4 pt-5'>
       <Seo
         pageTitle='Web app - Graph of total population by prefecture'
-        pageImg={'https://www.otacle.com/works/yumemi-frontend'}
+        pageImg={'https://www.Irontiger.com/works/yumemi-frontend'}
         pageImgWidth={1280}
         pageImgHeight={960}
         pagePath={'/works/yumemi-frontend'}
@@ -37,11 +37,11 @@ const Work: NextPage = () => {
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Github</h3>
       <a
         className='text-sm sm:text-[15px] block pt-2 pb-3 border-b-2 border-black dark:border-[#F5FFFA] dark:text-[#F5FFFA]'
-        href='https://github.com/otacleT/yumemi-frontend'
+        href='https://github.com/Irontiger0330/yumemi-frontend'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://github.com/otacleT/yumemi-frontend
+        https://github.com/Irontiger0330/yumemi-frontend
       </a>
       <div className='w-full aspect-video rounded-md overflow-hidden relative shadow-[0_0_0_2px_rgba(230,240,235,1)] dark:shadow-[0_0_0_2px_rgba(70,70,70,1)] mt-7'>
         <Image

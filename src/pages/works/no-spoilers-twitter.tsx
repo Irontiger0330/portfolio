@@ -11,7 +11,7 @@ const Work: NextPage = () => {
     <div className='max-w-xl mx-auto px-4 pt-5'>
       <Seo
         pageTitle='Web app - No Spoilers Twitter!!!'
-        pageImg={'https://www.otacle.com/works/no-spoilers-twitter'}
+        pageImg={'https://www.Irontiger.com/works/no-spoilers-twitter'}
         pageImgWidth={1280}
         pageImgHeight={960}
         pagePath={'/works/no-spoilers-twitter'}
@@ -38,11 +38,11 @@ const Work: NextPage = () => {
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Github</h3>
       <a
         className='text-sm sm:text-[15px] block pt-2 pb-3 border-b-2 border-black dark:border-[#F5FFFA] dark:text-[#F5FFFA]'
-        href='https://github.com/otacleT/no-spoilers-twitter'
+        href='https://github.com/Irontiger0330/no-spoilers-twitter'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://github.com/otacleT/no-spoilers-twitter
+        https://github.com/Irontiger0330/no-spoilers-twitter
       </a>
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Hackathon page</h3>
       <a

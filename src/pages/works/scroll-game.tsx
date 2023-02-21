@@ -11,7 +11,7 @@ const Work: NextPage = () => {
     <div className='max-w-xl mx-auto px-4 pt-5'>
       <Seo
         pageTitle='Web app - Scroll game using NFT'
-        pageImg={'https://www.otacle.com/works/scroll-game'}
+        pageImg={'https://www.Irontiger.com/works/scroll-game'}
         pageImgWidth={1280}
         pageImgHeight={960}
         pagePath={'/works/scroll-game'}
@@ -28,11 +28,11 @@ const Work: NextPage = () => {
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Github</h3>
       <a
         className='text-sm sm:text-[15px] block pt-2 pb-3 border-b-2 border-black dark:border-[#F5FFFA] dark:text-[#F5FFFA]'
-        href='https://github.com/otacleT/scroll-game-client'
+        href='https://github.com/Irontiger0330/scroll-game-client'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://github.com/otacleT/scroll-game-client
+        https://github.com/Irontiger0330/scroll-game-client
       </a>
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>ColorNFT(OpenSea)</h3>
       <a

@@ -11,7 +11,7 @@ const Work: NextPage = () => {
     <div className='max-w-xl mx-auto px-4 pt-5'>
       <Seo
         pageTitle='Web app - Colorful Todo App'
-        pageImg={'https://www.otacle.com/works/colorful-todo'}
+        pageImg={'https://www.Irontiger.com/works/colorful-todo'}
         pageImgWidth={1280}
         pageImgHeight={960}
         pagePath={'/works/colorful-todo'}
@@ -36,11 +36,11 @@ const Work: NextPage = () => {
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Github</h3>
       <a
         className='text-sm sm:text-[15px] block pt-2 pb-3 border-b-2 border-black dark:border-[#F5FFFA] dark:text-[#F5FFFA]'
-        href='https://github.com/otacleT/todo-app'
+        href='https://github.com/Irontiger0330/todo-app'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://github.com/otacleT/todo-app
+        https://github.com/Irontiger0330/todo-app
       </a>
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Hackathon page</h3>
       <a

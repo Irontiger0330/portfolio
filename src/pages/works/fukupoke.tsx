@@ -11,7 +11,7 @@ const Work: NextPage = () => {
     <div className='max-w-xl mx-auto px-4 pt-5'>
       <Seo
         pageTitle='Web page - HP制作02'
-        pageImg={'https://www.otacle.com/works/fukupoke'}
+        pageImg={'https://www.Irontiger.com/works/fukupoke'}
         pageImgWidth={1280}
         pageImgHeight={960}
         pagePath={'/works/fukupoke'}

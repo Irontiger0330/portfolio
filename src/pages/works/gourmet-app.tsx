@@ -11,7 +11,7 @@ const Work: NextPage = () => {
     <div className='max-w-xl mx-auto px-4 pt-5'>
       <Seo
         pageTitle='Dapp - Restaurant evaluation app based on trust level'
-        pageImg={'https://www.otacle.com/works/gourmet-app'}
+        pageImg={'https://www.Irontiger.com/works/gourmet-app'}
         pageImgWidth={1280}
         pageImgHeight={960}
         pagePath={'/works/gourmet-app'}
@@ -37,28 +37,28 @@ const Work: NextPage = () => {
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Github</h3>
       <a
         className='text-sm sm:text-[15px] block pt-2 pb-3 border-b-2 border-black dark:border-[#F5FFFA] dark:text-[#F5FFFA]'
-        href='https://github.com/otacleT/gourmet-app-client'
+        href='https://github.com/Irontiger0330/gourmet-app-client'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://github.com/otacleT/gourmet-app-client
+        https://github.com/Irontiger0330/gourmet-app-client
       </a>
       <a
         className='text-sm sm:text-[15px] block py-3 border-b-2 border-black dark:border-[#F5FFFA] dark:text-[#F5FFFA]'
-        href='https://github.com/otacleT/gourmet-app'
+        href='https://github.com/Irontiger0330/gourmet-app'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://github.com/otacleT/gourmet-app
+        https://github.com/Irontiger0330/gourmet-app
       </a>
       <h3 className='text-xs sm:text-sm font-bold mt-3 dark:text-[#F5FFFA]'>Presentation slide</h3>
       <a
         className='text-sm sm:text-[15px] block pt-2 pb-3 border-b-2 border-black dark:border-[#F5FFFA] dark:text-[#F5FFFA]'
-        href='https://speakerdeck.com/otaclet/gourmet-app'
+        href='https://speakerdeck.com/Irontiger0330/gourmet-app'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://speakerdeck.com/otaclet/gourmet-app
+        https://speakerdeck.com/Irontiger0330/gourmet-app
       </a>
       <div className='w-full aspect-video rounded-md overflow-hidden relative shadow-[0_0_0_2px_rgba(230,240,235,1)] dark:shadow-[0_0_0_2px_rgba(70,70,70,1)] mt-7'>
         <Image
