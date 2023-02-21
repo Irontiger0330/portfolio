@@ -1,0 +1,1 @@
+export {useLanguageColor} from './useLanguageColor'
